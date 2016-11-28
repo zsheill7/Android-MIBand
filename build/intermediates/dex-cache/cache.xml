@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_76c6534ad9babb903ee872bd812ae36baa7ff55d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/parse-android-1.13.0_bdb3277a5f150aa2119f2396c5413e226f241912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_6ffbf7c4dbdf1e69199cf89baf0a3a3d6b111efa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_7cd5da32cade0b97c4df15dd1114513430658bb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_23514dc2a505588de53b338970c8703259c8cdfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_a2c9a03871322f952ccd01b0f6b460cd850cafaf.jar" />
+    </item>
+
+</items>
