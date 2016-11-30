@@ -72,6 +72,10 @@
         "source": "/Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/res/layout/activity_main.xml"
     },
     {
+        "merged": "/Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/layout/activity_feed.xml",
+        "source": "/Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/res/layout/activity_feed.xml"
+    },
+    {
         "merged": "/Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
         "source": "/Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_screen_content_include.xml"
     },

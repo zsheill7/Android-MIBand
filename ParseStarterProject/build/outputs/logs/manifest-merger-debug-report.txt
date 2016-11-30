@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:9:1-40:12
+ADDED from /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:9:1-41:12
 	package
 		ADDED from /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
 		INJECTED from /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml
@@ -22,7 +22,7 @@ ADDED from /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject
 	android:name
 		ADDED from /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
 application
-ADDED from /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:15:5-38:19
+ADDED from /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:15:5-39:19
 MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:22.2.0] /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
 	android:label
@@ -64,9 +64,13 @@ ADDED from /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject
 	android:name
 		ADDED from /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:34:27-74
 activity#com.parse.starter.Main2Activity
-ADDED from /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:37:9-60
+ADDED from /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:37:9-51
 	android:name
 		ADDED from /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:37:19-48
+activity#com.parse.starter.Feed
+ADDED from /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:38:9-51
+	android:name
+		ADDED from /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:38:19-39
 uses-sdk
 INJECTED from /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:20:5-43

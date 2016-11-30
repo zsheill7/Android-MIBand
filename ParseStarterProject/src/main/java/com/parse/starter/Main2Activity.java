@@ -86,6 +86,9 @@ public class Main2Activity extends AppCompatActivity {
         } else if (item.getItemId() == R.id.logout) {
             Intent intent = new Intent(getApplicationContext(), MainActivity.class);
             startActivity(intent);
+        } else if (item.getItemId() == R.id.viewFeed) {
+            Intent intent = new Intent(getApplicationContext(), Feed.class);
+            startActivity(intent);
         }
         return super.onOptionsItemSelected(item);
     }

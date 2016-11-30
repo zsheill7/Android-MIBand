@@ -12,15 +12,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
-        <dex dex="/Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/parse-android-1.13.0_bdb3277a5f150aa2119f2396c5413e226f241912.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -45,6 +36,15 @@
         revision="25.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
         <dex dex="/Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_23514dc2a505588de53b338970c8703259c8cdfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zoe/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/zoe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/parse-android-1.13.0_bdb3277a5f150aa2119f2396c5413e226f241912.jar" />
     </item>
     <item
         is-multidex="false"
